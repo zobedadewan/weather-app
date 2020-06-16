@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/zobedadewan/weather-app/static/css/main.4ce0c5e2.chunk.css",
+    "main.js": "/zobedadewan/weather-app/static/js/main.517c4efa.chunk.js",
+    "main.js.map": "/zobedadewan/weather-app/static/js/main.517c4efa.chunk.js.map",
+    "runtime-main.js": "/zobedadewan/weather-app/static/js/runtime-main.f8adffb3.js",
+    "runtime-main.js.map": "/zobedadewan/weather-app/static/js/runtime-main.f8adffb3.js.map",
+    "static/css/2.fc5deab4.chunk.css": "/zobedadewan/weather-app/static/css/2.fc5deab4.chunk.css",
+    "static/js/2.a04bc001.chunk.js": "/zobedadewan/weather-app/static/js/2.a04bc001.chunk.js",
+    "static/js/2.a04bc001.chunk.js.map": "/zobedadewan/weather-app/static/js/2.a04bc001.chunk.js.map",
+    "index.html": "/zobedadewan/weather-app/index.html",
+    "precache-manifest.c57882d03e1d727a6f5533527129c9e9.js": "/zobedadewan/weather-app/precache-manifest.c57882d03e1d727a6f5533527129c9e9.js",
+    "service-worker.js": "/zobedadewan/weather-app/service-worker.js",
+    "static/css/2.fc5deab4.chunk.css.map": "/zobedadewan/weather-app/static/css/2.fc5deab4.chunk.css.map",
+    "static/css/main.4ce0c5e2.chunk.css.map": "/zobedadewan/weather-app/static/css/main.4ce0c5e2.chunk.css.map",
+    "static/js/2.a04bc001.chunk.js.LICENSE.txt": "/zobedadewan/weather-app/static/js/2.a04bc001.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/zobedadewan/weather-app/static/media/pic.a5d7cc3d.jpg",
+    "static/media/weather-icons.css": "/zobedadewan/weather-app/static/media/weathericons-regular-webfont.ed0943f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8adffb3.js",
+    "static/css/2.fc5deab4.chunk.css",
+    "static/js/2.a04bc001.chunk.js",
+    "static/css/main.4ce0c5e2.chunk.css",
+    "static/js/main.517c4efa.chunk.js"
+  ]
+}
