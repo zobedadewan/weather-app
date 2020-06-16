@@ -1,0 +1,17 @@
+.container form{
+    margin-top: 3rem;
+}
+form input[name="city"],
+form input[name="country"]{
+    font-weight: bold;
+    font-size: 20px;
+    color:rgb(185, 37, 37);
+    background-color: transparent !important;
+    border:0;
+    border-bottom:2px solid rgb(110, 108, 108);
+    border-radius: 0; 
+}
+
+form input .container::-webkit-input-placeholder{
+    color:rgb(228, 229, 235);
+}
